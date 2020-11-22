@@ -6,7 +6,7 @@ Un array es un medio de guardar un conjunto de objetos de la misma clase. Se acc
 
 	1.#include <stdio.h>
 	2.int main(){
-    	3.	int v[  ] = {3,5,8,7,9};
+    3.	int v[  ] = {3,5,8,7,9};
 	4.		prinft("El valor de la posición 2 es: %i\n", v[2] );
 	5.}
 

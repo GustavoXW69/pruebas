@@ -6,13 +6,13 @@ Un array es un medio de guardar un conjunto de objetos de la misma clase. Se acc
 
 	1.#include <stdio.h>
 	2.int main(){
-    3.	int v[  ] = {3,5,8,7,9};
+    3.	int v[] = {3,5,8,7,9};
 	4.		prinft("El valor de la posición 2 es: %i\n", v[2] );
 	5.}
 
 Donde como se puede observar en la **línea 3**, declaramos un array con datos del tipo entero, siendo en la **línea 4** la impresión del valor "2" guardado en el array, el cúal es el número 8.
 
-`Fuentes`
+**Fuentes**
 
 - http://www.sc.ehu.es/sbweb/fisica/cursoJava/fundamentos/clases1/arays.htm
 

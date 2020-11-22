@@ -16,7 +16,7 @@ Donde como se puede observar en la **línea 3**, declaramos un array con datos d
 
 **Matrices como arreglos de arreglos**
 
-Este tipo de arreglos son conocidos como matrices y pueden almacenar muchos más datos que los arreglos unidimensionales, los bidimensionales se componen de n filas por m columnas. Elemplo:
+Este tipo de arreglos son conocidos como matrices y pueden almacenar muchos más datos que los arreglos unidimensionales, los bidimensionales se componen de n filas por m columnas. Eljemplo:
 
 ```C++
 #include <stdio.h>
@@ -24,10 +24,11 @@ int main(){
 int numeros[2][3] = {{1,2,3},{3,4,5}}; //Matriz de tipo entero de 2 x 3
 }
 ```
-**Presentación de matriz 2 x 3
+**Presentación de matriz 2 x 3**
+```C++
 1 2 3
 3 4 5
-**
+```
 
 **Fuentes**
 

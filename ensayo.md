@@ -3,7 +3,7 @@
 **Arrays**
 
 Un array es un medio de guardar un conjunto de objetos de la misma clase. Se accede a cada elemento individual del array mediante un número entero denominado índice. 0 es el índice del primer elemento y n-1 es el índice del último elemento, siendo n, la dimensión del array. Ejemplo (en C):
-```C
+```C++
 #include <stdio.h>
 int main(){
 int v[] = {3,5,8,7,9};
@@ -11,21 +11,6 @@ prinft("El valor de la posición 2 es: %i\n", v[2] );
 }
 ```
 Donde como se puede observar en la **línea 3**, declaramos un array con datos del tipo entero, siendo en la **línea 4** la impresión del valor "2" guardado en el array, el cúal es el número 8.
-
-####HTML code
-
-```html
-<!DOCTYPE html>
-<html>
-    <head>
-        <mate charest="utf-8" />
-        <title>Hello world!</title>
-    </head>
-    <body>
-        <h1>Hello world!</h1>
-    </body>
-</html>
-```
 
 **Fuentes**
 

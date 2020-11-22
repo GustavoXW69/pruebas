@@ -43,11 +43,13 @@ struct ElementoLista *siguiente;
 ```
 ## Árboles (trees)
 
-Los árboles (trees) son una estructura de datos muy común, que se define de forma recursiva como una colección de nodos, empezando por un nodo raíz, donde cada nodo es una estructura de datos que contiene un valor, y opcionalmente una lista de referencias a otros nodos, con la limitación de que ninguna referencia esté duplicada, y que ninguna apunte al nodo raíz.
+Los árboles (trees) son una estructura de datos, que se define de forma recursiva como una colección de nodos, empezando por un nodo raíz, donde cada nodo es una estructura de datos que contiene un valor, y opcionalmente una lista de referencias a otros nodos, con la limitación de que ninguna referencia esté duplicada, y que ninguna apunte al nodo raíz.
 
 **Implementación**
 
+## Tries
 
+un trie es una estructura de datos de tipo árbol que permite la recuperación de información (de ahí su nombre del inglés reTRIEval). La información almacenada en un trie es un conjunto de claves, donde una clave es una secuencia de símbolos pertenecientes a un alfabeto. Las claves son almacenadas en las hojas del árbol y los nodos internos son pasarelas para guiar la búsqueda. El árbol se estructura de forma que cada letra de la clave se sitúa en un nodo de forma que los hijos de un nodo representan las distintas posibilidades de símbolos diferentes que pueden continuar al símbolo representado por el nodo padre. Por tanto la búsqueda en un trie se hace de forma similar a como se hacen las búsquedas en un diccionario
 
 
 **Fuentes**
@@ -61,3 +63,5 @@ Los árboles (trees) son una estructura de datos muy común, que se define de fo
 - https://es.ccm.net/faq/2842-la-lista-enlazada-simple
 
 - https://medium.com/laboratoria-developers/%C3%A1rboles-trees-51783ba4ebe5
+
+- http://www.utm.mx/~dtorres/cursos/estructuradedatos/Tema6-Arboles.pdf

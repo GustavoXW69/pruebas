@@ -41,7 +41,7 @@ char *dato;
 struct ElementoLista *siguiente;
 }Elemento;
 ```
-# Árboles (trees)
+## Árboles (trees)
 
 Los árboles (trees) son una estructura de datos muy común, que se define de forma recursiva como una colección de nodos, empezando por un nodo raíz, donde cada nodo es una estructura de datos que contiene un valor, y opcionalmente una lista de referencias a otros nodos, con la limitación de que ninguna referencia esté duplicada, y que ninguna apunte al nodo raíz.
 

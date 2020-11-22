@@ -33,6 +33,14 @@ int numeros[2][3] = {{1,2,3},{3,4,5}}; //Matriz de tipo entero de 2 x 3
 
 Las listas enlazadas en C son estructuras de datos que enlazan los elementos mediante un puntero. Son semejantes a los array salvo que el acceso a un dato (de tipo entero, carácter, flotante, etc) no se hace mediante un índice. También tienen una estructura dinámica, es decir, que no necesitamos conocer con anterioridad el número de elementos que va a contener.
 
+Para establecer un elemento de la lista será utilizado el tipo **struct**. El elemento de la lista tendrá un campo dato y un puntero. El puntero tiene que ser del mismo tipo que el elemento. De lo contrario, no podrá apuntar hacia el elemento. Ejemplo:
+
+```C++
+typedef struct ElementoLista {
+char *dato;
+struct ElementoLista *siguiente;
+}Elemento;
+```
 
 **Fuentes**
 
@@ -41,3 +49,5 @@ Las listas enlazadas en C son estructuras de datos que enlazan los elementos med
 - https://developer.mozilla.org/
 
 - https://codigosdeprogramacion.com/cursos/?lesson=8-arreglos-y-matrices
+
+- https://es.ccm.net/faq/2842-la-lista-enlazada-simple

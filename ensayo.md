@@ -12,6 +12,21 @@ Un array es un medio de guardar un conjunto de objetos de la misma clase. Se acc
 
 Donde como se puede observar en la **línea 3**, declaramos un array con datos del tipo entero, siendo en la **línea 4** la impresión del valor "2" guardado en el array, el cúal es el número 8.
 
+####HTML code
+
+```html
+<!DOCTYPE html>
+<html>
+    <head>
+        <mate charest="utf-8" />
+        <title>Hello world!</title>
+    </head>
+    <body>
+        <h1>Hello world!</h1>
+    </body>
+</html>
+```
+
 **Fuentes**
 
 - http://www.sc.ehu.es/sbweb/fisica/cursoJava/fundamentos/clases1/arays.htm

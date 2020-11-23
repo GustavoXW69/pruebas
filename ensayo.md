@@ -51,12 +51,21 @@ Los árboles (trees) son una estructura de datos, que se define de forma recursi
 
 Un **trie** es una estructura de datos de tipo árbol que permite la recuperación de información. La información almacenada en un trie es un conjunto de claves. Las claves son almacenadas en las hojas del árbol y los nodos internos son pasarelas para guiar la búsqueda. El árbol se estructura de forma que cada letra de la clave se sitúa en un nodo de forma que los hijos de un nodo representan las distintas posibilidades de símbolos diferentes que pueden continuar al símbolo representado por el nodo padre. Por tanto la búsqueda en un trie se hace de forma similar a como se hacen las búsquedas en un diccionario.
 
+## Tablas hash (hash tables)
+
+Las Tablas Hash son estructuras de datos no lineales que utilizan un arreglo lineal para almacenar sus elementos.
+
+La  función Hash de una Tabla Hash convierte un dato del elemento a almacenar, conocido como clave, en un entero entre 0 y n-1 que representa un índice dentro del arreglo de la estructura, que posee "n" elementos.
+
+La principal aplicación de las Tablas Hash es el diseño de diccionarios, pero bien pueden ser utilizadas en un sin fin de tareas donde la velocidad de las búsquedas sea siempre un punto crítico en el proceso de desarrollo.
 
 
 
 **Fuentes**
 
-- http://www.sc.ehu.es/sbweb/fisica/cursoJava/fundamentos/clases1/arays.htm
+- https://docs.microsoft.com/es-es/powershell/scripting/learn/deep-dives/everything-about-hashtable?view=powershell-7.1
+
+- http://www.sc.ehu.es/sbweb/fisica/cursoJava/fundamentos/clases1/arrays.htm
 
 - https://developer.mozilla.org/
 

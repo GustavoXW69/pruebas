@@ -78,3 +78,5 @@ Una Cola o Queue es una estructura de datos que sigue la Filosofía **FIFO** del
 - https://medium.com/laboratoria-developers/%C3%A1rboles-trees-51783ba4ebe5
 
 - http://www.utm.mx/~dtorres/cursos/estructuradedatos/Tema6-Arboles.pdf
+
+- https://www.oscarblancarteblog.com/2014/08/01/estructura-de-datos-queue-cola/

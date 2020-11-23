@@ -59,7 +59,9 @@ La  función Hash de una Tabla Hash convierte un dato del elemento a almacenar, 
 
 La principal aplicación de las Tablas Hash es el diseño de diccionarios, pero bien pueden ser utilizadas en un sin fin de tareas donde la velocidad de las búsquedas sea siempre un punto crítico en el proceso de desarrollo.
 
+## Colas (queues)
 
+Una Cola o Queue es una estructura de datos que sigue la Filosofía **FIFO** del ingles **First In – First Out** que en español seria **“Primero en entrar primero en salir”**. Esto quiere decir que el elemento que entre primero a la Cola sera el primero que salga y el último que entre sera el último en salir.
 
 **Fuentes**
 

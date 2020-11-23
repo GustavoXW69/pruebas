@@ -1,5 +1,7 @@
 # ¿Qué es una estructura de datos?
 
+La estrucutura de datos en informática es una forma particular de organizar los datos dentro de un ordenado, de tal fomra que este sea mas eficiente al hacer algun tipo de consultas en bases de datos y servicios de indización de Internet. Por lo general, las estructuras de datos eficientes son clave para diseñar algoritmos eficientes. Las estructuras de datos se basan generalmente en la capacidad de un ordenador para recuperar y almacenar datos en cualquier lugar de su memoria.
+
 ## Arrays
 
 Un array es un medio de guardar un conjunto de objetos de la misma clase. Se accede a cada elemento individual del array mediante un número entero denominado índice. 0 es el índice del primer elemento y n-1 es el índice del último elemento, siendo n, la dimensión del array. Ejemplo:

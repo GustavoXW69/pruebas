@@ -83,6 +83,6 @@ Una pila es una lista ordenada o estructura de datos que permite almacenar y rec
 
 - https://medium.com/laboratoria-developers/%C3%A1rboles-trees-51783ba4ebe5
 
-- http://www.utm.mx/~dtorres/cursos/estructuradedatos/Tema6-Arboles.pdf
+- http://www.utm.mx/
 
 - https://www.oscarblancarteblog.com/2014/08/01/estructura-de-datos-queue-cola/

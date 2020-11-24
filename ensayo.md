@@ -53,11 +53,11 @@ Un **trie** es una estructura de datos de tipo árbol que permite la recuperaci�
 
 ## Tablas hash (hash tables)
 
-Las Tablas Hash son estructuras de datos no lineales que utilizan un arreglo lineal para almacenar sus elementos.
+Una tabla hash se puede ver como un conjunto de entradas. Cada una de estas entradas tiene asociada una clave única, y por lo tanto, diferentes entradas de una misma tabla tendrán diferentes claves. Esto implica, que una clave identifica univocamente a una entrada en una tabla hash.
 
-La  función Hash de una Tabla Hash convierte un dato del elemento a almacenar, conocido como clave, en un entero entre 0 y n-1 que representa un índice dentro del arreglo de la estructura, que posee "n" elementos.
+Por otro lado, las entradas de las tablas hash están compuestas por dos componentes, la propia clave y la información que se almacena en dicha entrada.
 
-La principal aplicación de las Tablas Hash es el diseño de diccionarios, pero bien pueden ser utilizadas en un sin fin de tareas donde la velocidad de las búsquedas sea siempre un punto crítico en el proceso de desarrollo.
+<img src="hash.png" width="70%">
 
 ## Colas (queues)
 

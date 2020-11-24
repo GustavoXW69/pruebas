@@ -65,6 +65,10 @@ Una Cola o Queue es una estructura de datos que sigue la Filosofía **FIFO** del
 
 <img src="fifo.png" width="70%">
 
+## Pilas (stacks)
+
+Una pila es una lista ordenada o estructura de datos que permite almacenar y recuperar datos, siendo el modo de acceso a sus elementos de tipo LIFO **Last In, First Out**, "último en entrar, primero en salir". La característica más importante de la pila es que el último elemento insertado en ella es el primero en suprimirse.
+
 **Fuentes**
 
 - https://docs.microsoft.com/es-es/powershell/scripting/learn/deep-dives/everything-about-hashtable?view=powershell-7.1

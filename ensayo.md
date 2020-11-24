@@ -57,7 +57,7 @@ Una tabla hash se puede ver como un conjunto de entradas. Cada una de estas entr
 
 Por otro lado, las entradas de las tablas hash están compuestas por dos componentes, la propia clave y la información que se almacena en dicha entrada.
 
-<img src="hash.png" width="70%">
+<img src="hash.png" width="60%">
 
 ## Colas (queues)
 
@@ -69,7 +69,7 @@ Una Cola o Queue es una estructura de datos que sigue la Filosofía **FIFO** del
 
 Una pila es una lista ordenada o estructura de datos que permite almacenar y recuperar datos, siendo el modo de acceso a sus elementos de tipo LIFO **Last In, First Out**, "último en entrar, primero en salir". La característica más importante de la pila es que el último elemento insertado en ella es el primero en suprimirse.
 
-<img src="LIFO.png" width="70%">
+<img src="LIFO.png" width="55%">
 
 **Fuentes**
 

@@ -65,7 +65,7 @@ La principal aplicación de las Tablas Hash es el diseño de diccionarios, pero 
 
 Una Cola o Queue es una estructura de datos que sigue la Filosofía **FIFO** del ingles **First In – First Out** que en español seria **“Primero en entrar primero en salir”**. Esto quiere decir que el elemento que entre primero a la Cola sera el primero que salga y el último que entre sera el último en salir.
 
-<img src="fifo.png">
+<img src="fifo.png" width="500px">
 
 **Fuentes**
 
